@@ -1,0 +1,5 @@
+basic.showNumber(1)
+basic.showNumber(3)
+basic.showNumber(5)
+basic.showNumber(7)
+basic.showNumber(9)
